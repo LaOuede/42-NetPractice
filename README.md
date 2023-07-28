@@ -10,7 +10,7 @@ Work in progress...
 
 <div align=center>
   
-<b>Netpractice</b> is a project designed to help you understand network configuration.
+<b>NetPractice</b> is a project designed to help you understand network configuration.
 It's an introduction to IP addressing in a network, with a router or other device.
 </div>
 
