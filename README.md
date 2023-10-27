@@ -4,10 +4,6 @@
 
 <h1 align=center>NetPractice</h1>
 
-<p align=center>
-Work in progress...
-</p>
-
 <div align=center>
   
 <b>NetPractice</b> is a project designed to help you understand network configuration.
